@@ -15,9 +15,6 @@ Some online resources and the research overview figure are listed below:
 4)	Users can upload the data online to get the prediction results immediately http://47.93.42.104/predict or download the code to train the model based on their dataset offline https://github.com/Accountable-Machine-Intelligence/AICare.
 
 
-
-
-
 ## Overview
 
 #### Mortality Prediction Research Overview for peritoneal dialysis (PD) Patients.
